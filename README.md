@@ -2,6 +2,10 @@
 
 <div align="center">
 
+  <img src="docs/readme_banner.png" alt="Student Record Management System — EWB EduTech" width="100%">
+
+  <br/><br/>
+
   ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -235,6 +239,10 @@ Once running, navigate to:
 
 ## 11. REST API Reference & Endpoints
 
+<div align="center">
+  <img src="docs/readme_crud.png" alt="REST CRUD Lifecycle & Operations" width="100%">
+</div>
+
 | Method | Endpoint | Description | Status Code |
 |---|---|---|---|
 | `POST` | `/students` | Create new student profile | 201 Created |
@@ -288,6 +296,10 @@ Once running, navigate to:
 ---
 
 ## 13. Frontend Admin Dashboard
+
+<div align="center">
+  <img src="docs/dashboard_preview.jpg" alt="Light Theme Student Record Management Dashboard Preview" width="100%">
+</div>
 
 The dashboard provides an intuitive, high-craft administration interface:
 - **Live Statistics Cards**: Total registered students, total courses, recent enrollments in the past 30 days, and AI engine status.
